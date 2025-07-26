@@ -22,7 +22,7 @@ Steps to reproduce the behavior:
 **Screenshots**
 
 
-**Desktop:**
+**Environment:**
  - OS: Android 10 (api 29)
  - Device: emulator Pixel 3
  - Version: MTW Air v4.0-alpha22
