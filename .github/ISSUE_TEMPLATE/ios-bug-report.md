@@ -23,7 +23,7 @@ Steps to reproduce the behavior:
 **Screenshots**
 
 
-**Desktop:**
+**Environment:**
  - OS: iOS 17.7.2
  - Device:  iPhone 12
  - Version 3.7.4 build 205
